@@ -1,4 +1,4 @@
-package com.example.a13pager;
+package com.example.a13_pager;
 
 import org.junit.Test;
 
